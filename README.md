@@ -24,7 +24,7 @@
 
 - **Main goal**: gain deep understanding of distributed systems theory and to become a master in one specific topic of distributed systems.
 - **Duration**: 2~3 years.
-- [Link to master roadmap ➭](https://github.com/distributed-systems-society/distributed-systems-mastek)
+- [Link to master roadmap ➭](https://github.com/distributed-systems-society/distributed-systems-master)
 
 ### Distributed Systems PhD
 
