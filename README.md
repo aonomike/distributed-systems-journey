@@ -38,6 +38,5 @@
 
 - **Programming Languages**: Elixir and Erlang.
 - **Platform**: Erlang. 
-- **Databases**: PostgreSQL, MongoDB, and more.
 
 ## Learning methodology
