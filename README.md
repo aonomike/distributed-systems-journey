@@ -30,7 +30,7 @@
 
 - **Main goal**: gain even more deep understanding of distributed systems theory and to become a Doctor of Philosophy in one specific topic of distributed systems.
 - **Duration**: 3~5 years.
-[Link to phd roadmap ➭](https://github.com/distributed-systems-society/distributed-systems-phd)
+- [Link to phd roadmap ➭](https://github.com/distributed-systems-society/distributed-systems-phd)
 
 ***Total duration: 10~15 years.***
 
