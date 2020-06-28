@@ -53,7 +53,7 @@ Recently, I develop a personal methodology that I'll share with you so you can u
 
 The **C3T2B1** learning methodology consists of:
 
-- Copy/read the content 3 times.
+- Copy/read/watch the content 3 times.
 - Transform the content 2 times.
 - Build some project 1 time.
 
