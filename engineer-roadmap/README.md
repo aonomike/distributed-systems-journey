@@ -11,7 +11,7 @@
 
 This resource is my personal roadmap in order to become a **Distributed Systems Engineer**.
 
-Now that you already have a solid and practical knowledge about the main tools we will use to develop our distributed systems, it is time to dive deeper and obtain a more robust knowledge so you will be able not only to participate in the development of distributed systems, but actually being able to lead teams and design medium/large distributed systems.
+Now that you already have a solid and practical knowledge about the main tools we will use to develop our distributed systems, it is time to dive deeper and obtain a more robust knowledge so you will be able not only to participate in the development of distributed systems but actually being able to lead teams and design medium/large distributed systems.
 
 After finish this roadmap, you will have a:
 
