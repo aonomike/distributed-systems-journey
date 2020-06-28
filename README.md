@@ -12,12 +12,10 @@
     - [Distributed Systems Engineer](#distributed-systems-engineer)
     - [Distributed Systems Master](#distributed-systems-master)
     - [Distributed Systems PhD](#distributed-systems-phd)
-  - [Tools](#tools)
-  - [Learning methodology](#learning-methodology)
 
 ## What is this roadmap?
 
-This resource is my personal roadmap in order to become a Distributed Systems Specialist.
+This resource is my personal roadmap in order to become a **Distributed Systems Ph.D**.
 
 This project aim to have a pragmatic and realistic approach. We will create a solid foundation, starting from practical knowledge, and build upon it, until we achieve a Ph.D. level of expertise in Distributed Systems.
 
@@ -25,7 +23,7 @@ This project aim to have a pragmatic and realistic approach. We will create a so
 
 It is difficult to find a linear, simple and curated list of resources to learn a new subject, and it is even worse when what you want to learn is a more niche and specialized topic.
 
-For that reason, and after a good experience creating the [OSSU organization]() and [OSSU-CS] curriculum, I will start this new challenging project!
+For that reason, and after a good experience creating the [OSSU organization](https://github.com/ossu) and [OSSU-CS](https://github.com/ossu/computer-science) curriculum, I'm starting this new challenging project!
 
 ## Project Goals
 
@@ -33,7 +31,7 @@ For that reason, and after a good experience creating the [OSSU organization]() 
 
 1. Create roadmaps to provide a linear path for those that want to be a developer, engineer, master and/or phd in distributed systems.
 1. Create original content so students will be able to learn everything in one place.
-1. Give a valid certificate for those that finish the program.
+1. Give a valid certificate for those that finish the curriculums.
 
 ### Other goals
 
@@ -66,10 +64,3 @@ For that reason, and after a good experience creating the [OSSU organization]() 
 - Link to phd roadmap ➭
 
 ***Total duration: 10~15 years.***
-
-## Tools
-
-- **Programming Languages**: Elixir and Erlang.
-- **Platform**: Erlang. 
-
-## Learning methodology
