@@ -2,6 +2,11 @@
 
 > 📚 Roadmap to becoming a distributed systems developer 🎓
 
+- [Distributed Systems Developer Roadmap](#distributed-systems-developer-roadmap)
+  - [What is this roadmap?](#what-is-this-roadmap)
+  - [Resources](#resources)
+  - [Duration: 2~3 years](#duration-23-years)
+
 ## What is this roadmap?
 
 This resource is my personal roadmap in order to become a **Distributed Systems Developer**.
@@ -21,6 +26,8 @@ The content in this roadmap has been extensively curated and only resources that
 > **Obs**: We are not receiving anything from publishers/content creators to indicate those resources.
 
 **Disclaimer**: the order of the resources may change at any time if new resources are published or if it makes sense to change it. We will try to keep the roadmap as stable as possible.
+
+## Resources
 
 | Name                                                 |     Type     | Is free? |                                                Link                                                 |
 | :--------------------------------------------------- | :----------: | :------: | :-------------------------------------------------------------------------------------------------: |
