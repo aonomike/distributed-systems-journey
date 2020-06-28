@@ -51,19 +51,19 @@ Recently, I develop a personal methodology that I'll share with you so you can u
 
 ### C3T2B1
 
-The **C3T2B1** learning methodology consists in:
+The **C3T2B1** learning methodology consists of:
 
-- Copying/reading the content 3 times.
-- Transforming the content 2 times.
-- Building some content 1 time.
+- Copy/read the content 3 times.
+- Transform the content 2 times.
+- Build some project 1 time.
 
-By copy, I mean to read/watch a section of your resource, and typing everything that is presented on it. In this moment, you should not fight with the content, just copy it exactly in the same way it is presented to you.
+By copy, I mean you should read/watch a section of the resource, and typing everything that is presented on it. At this moment, you should not fight with the content, just copy it exactly in the same way it is presented to you.
 
-By transform, I mean you should make a slightly variation of the final project that was developed in the resource.
+By transform, I mean you should make a slight variation of the final project that was developed in the resource.
 
-By building, I mean you should create a new project based on the knowledge you now acquire.
+By build, I mean you should create a new project based on the knowledge you acquired.
 
-It would also be interesting to create at least a simple article/project for each section of the resource you are consuming.
+It would also be interesting to create at least a simple article for each section of the resource you are consuming, to better summarize what you have learned. I recommend [DEV](dev.to) to be your blog platform.
 
 ## Distributed Systems Developer Roadmap
 
