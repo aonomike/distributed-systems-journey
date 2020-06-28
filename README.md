@@ -8,6 +8,8 @@
   - [Project Goals](#project-goals)
     - [Main goals](#main-goals)
     - [Other goals](#other-goals)
+  - [Learning methodology](#learning-methodology)
+    - [C3T2B1](#c3t2b1)
   - [Distributed Systems Developer Roadmap](#distributed-systems-developer-roadmap)
   - [Distributed Systems Engineer Roadmap](#distributed-systems-engineer-roadmap)
   - [Distributed Systems Master Roadmap](#distributed-systems-master-roadmap)
@@ -38,6 +40,30 @@ For that reason, and after a good experience creating the [OSSU organization](ht
 1. Help to educate professionals to become really knowledgeable about distributed systems.
 1. Help professionals to acquire a solid understanding of the process of developing high-quality systems.
 1. Help publicize Erlang and Elixir for distributed and also for general-purpose systems.
+
+## Learning methodology
+
+I highly encourage you to spend some time planning how you will be able to solidify the content you study.
+
+We have a bunch of resources about this topic, so take some time to research and think about it.
+
+Recently, I develop a personal methodology that I'll share with you so you can use it as an inspiration to create your own.
+
+### C3T2B1
+
+The **C3T2B1** learning methodology consists in:
+
+- Copying/reading the content 3 times.
+- Transforming the content 2 times.
+- Building some content 1 time.
+
+By copy, I mean to read/watch a section of your resource, and typing everything that is presented on it. In this moment, you should not fight with the content, just copy it exactly in the same way it is presented to you.
+
+By transform, I mean you should make a slightly variation of the final project that was developed in the resource.
+
+By building, I mean you should create a new project based on the knowledge you now acquire.
+
+It would also be interesting to create at least a simple article/project for each section of the resource you are consuming.
 
 ## Distributed Systems Developer Roadmap
 
