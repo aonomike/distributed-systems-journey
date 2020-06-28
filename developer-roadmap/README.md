@@ -36,3 +36,7 @@ The content in this roadmap has been extensively curated and only resources that
 | Full-Stack GraphQL with Absinthe, Phoenix, and React | Video course |    No    | [Link](https://pragmaticstudio.com/courses/unpacked-full-stack-graphql-with-absinthe-phoenix-react) |
 
 Another very interesting and free resource that is valid to mention is the [Elixir School](https://elixirschool.com/) project.
+
+## Duration: 2~3 years
+
+We have 10 items in this roadmap. Projecting that we will spent more or less 3 months to finish each, we will spend 30 months to finish this program.
