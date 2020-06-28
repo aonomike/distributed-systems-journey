@@ -8,10 +8,10 @@
   - [Project Goals](#project-goals)
     - [Main goals](#main-goals)
     - [Other goals](#other-goals)
-    - [Distributed Systems Developer](#distributed-systems-developer)
-    - [Distributed Systems Engineer](#distributed-systems-engineer)
-    - [Distributed Systems Master](#distributed-systems-master)
-    - [Distributed Systems PhD](#distributed-systems-phd)
+  - [Distributed Systems Developer Roadmap](#distributed-systems-developer-roadmap)
+  - [Distributed Systems Engineer Roadmap](#distributed-systems-engineer-roadmap)
+  - [Distributed Systems Master Roadmap](#distributed-systems-master-roadmap)
+  - [Distributed Systems PhD Roadmap](#distributed-systems-phd-roadmap)
 
 ## What is this roadmap?
 
@@ -39,25 +39,25 @@ For that reason, and after a good experience creating the [OSSU organization](ht
 1. Help professionals to acquire a solid understanding of the process of developing high-quality systems.
 1. Help publicize Erlang and Elixir for distributed and also for general-purpose systems.
 
-### Distributed Systems Developer
+## Distributed Systems Developer Roadmap
 
 - **Main goal**: being able to develop distributed CRUD applications.
 - **Duration**: 2~3 years.
 - [Link to developer roadmap ➭](/developer-roadmap/README.md)
 
-### Distributed Systems Engineer
+## Distributed Systems Engineer Roadmap
 
 - **Main goal**: being able to develop and architect complex high-scalable, distributed and fault-tolerant systems.
 - **Duration**: 4~5 years.
 - Link to engineer roadmap ➭
 
-### Distributed Systems Master
+## Distributed Systems Master Roadmap
 
 - **Main goal**: gain deep understanding of distributed systems theory and to become a master in one specific topic of distributed systems.
 - **Duration**: 2~3 years.
 - Link to master roadmap ➭
 
-### Distributed Systems PhD
+## Distributed Systems PhD Roadmap
 
 - **Main goal**: gain even more deep understanding of distributed systems theory and to become a Doctor of Philosophy in one specific topic of distributed systems.
 - **Duration**: 3~5 years.
