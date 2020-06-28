@@ -22,7 +22,7 @@ The content in this roadmap has been extensively curated and only resources that
 
 **Disclaimer**: the order of the resources may change at any time if new resources are published or if it makes sense to change it. We will try to keep the roadmap as stable as possible.
 
-| Content                                              |     Type     | Is free? |                                                Link                                                 |
+| Name                                                 |     Type     | Is free? |                                                Link                                                 |
 | :--------------------------------------------------- | :----------: | :------: | :-------------------------------------------------------------------------------------------------: |
 | Learn you some Erlang for great good                 |     Book     |   Yes    |                               [Link](https://learnyousomeerlang.com/)                               |
 | Developing With Elixir/OTP                           | Video course |    No    |                             [Link](https://pragmaticstudio.com/elixir)                              |
