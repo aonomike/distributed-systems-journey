@@ -75,7 +75,7 @@ It would also be interesting to create at least a simple article/project for eac
 
 - **Main goal**: being able to develop and architect complex high-scalable, distributed and fault-tolerant systems.
 - **Duration**: 4~5 years.
-- Link to engineer roadmap ➭
+- [Link to engineer roadmap ➭](engineer-roadmap/README.md)
 
 ## Distributed Systems Master Roadmap
 
