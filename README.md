@@ -64,7 +64,7 @@ By transform, I mean you should make a slight variation of the final project tha
 
 By build, I mean you should create a new project based on the knowledge you acquired.
 
-It would also be interesting to create at least a simple article for each section of the resource you are consuming, to better summarize what you have learned. I recommend [DEV](dev.to) to be your blog platform.
+It would also be interesting to create at least a simple article for each section of the resource you are consuming, to better summarize what you have learned. I recommend [DEV](https://dev.to/) to be your blog platform.
 
 ## Distributed Systems Developer Roadmap
 
