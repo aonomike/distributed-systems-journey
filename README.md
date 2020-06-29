@@ -14,6 +14,7 @@
   - [Distributed Systems Engineer Roadmap](#distributed-systems-engineer-roadmap)
   - [Distributed Systems Master Roadmap](#distributed-systems-master-roadmap)
   - [Distributed Systems PhD Roadmap](#distributed-systems-phd-roadmap)
+  - [About the author](#about-the-author)
 
 ## What is this roadmap?
 
@@ -90,3 +91,17 @@ It would also be interesting to create at least a simple article for each sectio
 - Link to phd roadmap ➭
 
 ***Total duration: 10~15 years.***
+
+## About the author
+
+Maybe you will find it interesting/relevant to know more about the person behind the project.
+
+My main background is not in Elixir/Erlang nor backend development.
+
+Currently I am a JavaScript Developer, building React SPAs (and [creating](https://github.com/ericdouglas/onli-reducer) [some tools](https://github.com/ericdouglas/abstract-state) to improve the developer experience while using it).
+
+I'm also an undergraduate student of Computer Engineering, and finishing my specialization in Software Engineering.
+
+Some years ago I created OSSU and OSSU-CS (as I said before) to offer free education for everyone.
+
+Recently, I became a member of the [Erlang Ecosystem Foundation - Education, Training, & Adoption Working Group](https://erlef.org/wg/education), and my biggest motivation to join this working group was the _Distributed Systems Journey_ project. Since I knew I wanted to start this, I thought it would be great to receive and give some help in such endeavor of spreading the information about the Erlang and what its ecosystem has to offer to us.
