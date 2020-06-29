@@ -58,7 +58,7 @@ The **C3T2B1** learning methodology consists of:
 - Transform the content 2 times.
 - Build some project 1 time.
 
-By copy, I mean you should read/watch a section of the resource, and typing everything that is presented on it. At this moment, you should not fight with the content, just copy it exactly in the same way it is presented to you.
+By copy, I mean you should read/watch a section of the resource, and type everything that is presented on it. At this moment, you should not fight with the content, just copy it exactly in the same way it is presented to you.
 
 By transform, I mean you should make a slight variation of the final project that was developed in the resource.
 
