@@ -80,13 +80,13 @@ It would also be interesting to create at least a simple article for each sectio
 
 ## Distributed Systems Master Roadmap
 
-- **Main goal**: gain deep understanding of distributed systems theory and to become a master in one specific topic of distributed systems.
+- **Main goal**: gain a deep understanding of distributed systems theory and become a master in one specific topic of distributed systems.
 - **Duration**: 2~3 years.
 - Link to master roadmap ➭
 
 ## Distributed Systems PhD Roadmap
 
-- **Main goal**: gain even more deep understanding of distributed systems theory and to become a Doctor of Philosophy in one specific topic of distributed systems.
+- **Main goal**: gain a even more deep understanding of distributed systems theory and become a Doctor of Philosophy (Ph.D.) in one specific topic of distributed systems.
 - **Duration**: 3~5 years.
 - Link to phd roadmap ➭
 
