@@ -98,7 +98,7 @@ Maybe you will find it interesting/relevant to know more about the person behind
 
 My main background is not in Elixir/Erlang nor backend development.
 
-Currently I am a JavaScript Developer, building React SPAs (and [creating](https://github.com/ericdouglas/onli-reducer) [some tools](https://github.com/ericdouglas/abstract-state) to improve the developer experience while using it).
+Currently, I am a JavaScript Developer, building React SPAs (and [creating](https://github.com/ericdouglas/onli-reducer) [some tools](https://github.com/ericdouglas/abstract-state) to improve the developer experience while using it).
 
 I'm also an undergraduate student of Computer Engineering, and finishing my specialization in Software Engineering.
 
