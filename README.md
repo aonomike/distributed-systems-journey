@@ -1,6 +1,6 @@
 # Distributed Systems Journey
 
-> 📚 Roadmap to becoming a distributed systems specialist 🎓
+> 📚 Roadmap to becoming a distributed systems Ph.D 🎓
 
 - [Distributed Systems Journey](#distributed-systems-journey)
   - [What is this roadmap?](#what-is-this-roadmap)
